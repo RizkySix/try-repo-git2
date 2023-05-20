@@ -8,5 +8,8 @@
 </head>
 <body>
     <h1>Hellow Kawan</h1>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus eligendi quos dolorem voluptate laborum earum sapiente itaque illo esse facilis. Placeat qui earum harum exercitationem perferendis architecto tempore dolorem ab.
+    </p>
 </body>
 </html>
